@@ -1,4 +1,4 @@
-##Blazor Accounting Web App
+## Blazor Accounting Web App
 This is a double-entry accounting Web App using SQL Server
 <h3>📸 Project Screenshots</h3>
 
